@@ -1,0 +1,2 @@
+# MINTED
+Linux Mint
