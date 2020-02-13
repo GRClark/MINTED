@@ -1,0 +1,22 @@
+grclark@ALLMINTY:~$ webhooks
+[webhook] 2019/12/20 03:25:50 version 2.5.0 starting
+[webhook] 2019/12/20 03:25:50 setting up os signal watcher
+[webhook] 2019/12/20 03:25:50 attempting to load hooks from /home/grclark/hooks.json
+[webhook] 2019/12/20 03:25:50 os signal watcher ready
+[webhook] 2019/12/20 03:25:50 found 15 hook(s) in file
+[webhook] 2019/12/20 03:25:50 	loaded: maintenance
+[webhook] 2019/12/20 03:25:50 	loaded: clean
+[webhook] 2019/12/20 03:25:50 	loaded: clearlogs
+[webhook] 2019/12/20 03:25:50 	loaded: update
+[webhook] 2019/12/20 03:25:50 	loaded: upgrade
+[webhook] 2019/12/20 03:25:50 	loaded: upgradable
+[webhook] 2019/12/20 03:25:50 	loaded: packages
+[webhook] 2019/12/20 03:25:50 	loaded: hooks
+[webhook] 2019/12/20 03:25:50 	loaded: port9000
+[webhook] 2019/12/20 03:25:50 	loaded: mqtt
+[webhook] 2019/12/20 03:25:50 	loaded: vlc
+[webhook] 2019/12/20 03:25:50 	loaded: firefox
+[webhook] 2019/12/20 03:25:50 	loaded: virtualkeyboard
+[webhook] 2019/12/20 03:25:50 	loaded: reboot
+[webhook] 2019/12/20 03:25:50 	loaded: shutdown
+[webhook] 2019/12/20 03:25:50 serving hooks on http://0.0.0.0:9000/hooks/{id}
